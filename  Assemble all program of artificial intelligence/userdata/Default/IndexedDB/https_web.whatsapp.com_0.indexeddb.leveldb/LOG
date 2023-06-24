@@ -1,0 +1,12 @@
+2023/05/24-19:20:41.476 5360 Reusing MANIFEST C:\PycharmProjects\ Assemble all program of artificial intelligence\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/24-19:20:41.476 5360 Recovering log #135
+2023/05/24-19:20:41.549 5360 Reusing old log C:\PycharmProjects\ Assemble all program of artificial intelligence\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000135.log 
+2023/05/24-19:20:45.704 5010 Level-0 table #140: started
+2023/05/24-19:20:45.723 5010 Level-0 table #140: 1100261 bytes OK
+2023/05/24-19:20:45.724 5010 Delete type=0 #135
+2023/05/24-19:20:55.085 5010 Compacting 1@0 + 1@1 files
+2023/05/24-19:20:55.111 5010 Generated table #141@0: 38657 keys, 734768 bytes
+2023/05/24-19:20:55.112 5010 Compacted 1@0 + 1@1 files => 734768 bytes
+2023/05/24-19:20:55.112 5010 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/24-19:20:55.112 5010 Delete type=2 #137
+2023/05/24-19:20:55.112 5010 Delete type=2 #140
