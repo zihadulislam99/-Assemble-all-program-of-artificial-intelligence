@@ -12,3 +12,10 @@ def Details_answer(data):
     Detailsanswer = f"Please provide long, description and details answer organized and world class way, Don't provide short answer\n```\n{data}\n```"
     return Detailsanswer
 
+
+def Type_of_answer(data):
+    Typeofanswer = f"Please provide Question and answer type, and short answer organized and world class way, Don't provide description and details answer\n```\n{data}\n```"
+    return Typeofanswer
+
+
+
