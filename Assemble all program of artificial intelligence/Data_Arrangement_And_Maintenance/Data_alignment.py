@@ -14,8 +14,10 @@ def Details_answer(data):
 
 
 def Type_of_answer(data):
-    Typeofanswer = f"Please provide Question and answer type, and short answer organized and world class way, Don't provide description and details answer\n```\n{data}\n```"
+    Typeofanswer = f"Please provide Question and answer type or category , and short answer organized and world class way, Don't provide description and details answer\n```\n{data}\n```"
     return Typeofanswer
 
 
-
+def Subject_or_topic_of_answer(data):
+    Subjectortopicofanswer = f"Please provide Question and answer Subject or topic , and short answer organized and world class way, Don't provide description and details answer\n```\n{data}\n```"
+    return Subjectortopicofanswer
